@@ -9,7 +9,7 @@ This project is being carried out as a part of AI4All 2021 at UCSF.
 
 #### 2) In your terminal, navigate to the folder that you would like this repository to be locally contained in. 
 
-#### 3) Create a local copy of your fork:
+#### 3) Create a local copy of your fork
 
 ```
 git clone https://github.com/YOUR-USERNAME/AI4all-Enhancer-Classifier

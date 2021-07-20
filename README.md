@@ -33,5 +33,18 @@ conda env create -f enhancer_classifier_project_env.yml
 conda activate enhancer_classifier_project
 ```
 
+#### 7) Add the conda environment to available kernels within Jupyter
+
+```
+python -m ipykernel install --user --name enhancer_classifier_project
+```
+
+#### 8) Launch Jupyter from within the `notebooks` directory
+
+```
+cd notebooks
+jupyter notebook
+```
+
 You should now be all set to start contributing!
 
